@@ -1,0 +1,30 @@
+% shortcut: Fedora's 2025-11 LaTeX kernel fails with its PDF/UA packages; restore UA-1 with current upstream TeX Live 2026.
+\DocumentMetadata{pdfstandard=A-2b,pdfversion=1.7,tagging=on,lang=ru-RU}
+\tagpdfsetup{math/mathml/luamml/load=false}
+
+\documentclass[9pt,a4paper,hyper,photo,onecolumn,compressed]{lucidcv}
+
+\cvaccent{C0392B}
+\geometry{left=1.2cm,right=1.2cm,top=1cm,bottom=1cm}
+\renewcommand{\cvnamesize}{34}
+\renewcommand{\cvtaglinesize}{12}
+
+\cvtitle{Андрей Назаров -- Резюме}
+\cvauthor{Андрей Назаров}
+\cvkeywords{backend engineer, systems engineer, C++, reliability, observability, performance}
+
+\begin{document}
+
+\name{Andrei}{Nazarov}
+\tagline{Backend Engineer --- Reliability, Observability and Performance}
+\cvphoto[3cm]{assets/profile.jpg}
+
+\input{contact.tex}
+
+\makecvheader
+
+\begin{cvbody}
+\input{contents-rus.tex}
+\end{cvbody}
+
+\end{document}
