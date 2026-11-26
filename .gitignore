@@ -2,3 +2,5 @@ build/
 node_modules/
 contents-eng.tex
 contents-rus.tex
+header-eng.tex
+header-rus.tex

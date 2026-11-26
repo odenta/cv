@@ -1,3 +1,8 @@
+---
+tagline: Senior AI Engineer — Developer Workflows & Backend Systems
+keywords: senior AI engineer, AI-assisted development, LLM orchestration, context engineering, human-in-the-loop review, backend systems, low-latency C++, distributed systems, observability, Prometheus
+---
+
 # Summary
 
 Senior AI engineer building AI workflows that engineering teams can trust for mission-critical work. Pipeline code controls what the model sees and gates which tasks it can run; engineers decide which changes ship. Previously built low-latency C++ trading infrastructure, including hot-path monitoring and replayable messaging systems.
