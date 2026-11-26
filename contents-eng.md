@@ -1,6 +1,6 @@
 ---
 tagline: Senior AI Engineer — Developer Workflows & Backend Systems
-keywords: senior AI engineer, AI-assisted development, LLM orchestration, context engineering, human-in-the-loop review, backend systems, low-latency C++, distributed systems, observability, Prometheus
+keywords: senior AI engineer, AI-assisted development, LLM orchestration, context engineering, human-in-the-loop review, backend systems, low-latency C++, distributed systems, observability, Prometheus, educational robotics, robotics programming tools
 ---
 
 # Summary
@@ -45,6 +45,10 @@ Senior AI engineer building AI workflows that engineering teams can trust for mi
 - Served as the go-to engineer for performance, networking and cross-component issues. Identified and eliminated performance bottlenecks through profiling, data-flow optimization, and architectural changes.
 - Made several legacy enterprise products easier for engineers to run and maintain by automating routine work and introducing CI/CD.
 - Set the technical direction for a shared cross-platform library.
+
+# Independent Projects
+
+Rebuilt a legacy educational robotics IDE from scratch with AI assistance. The cross-platform, extensible IDE preserves the original language semantics and behavior, so students can use the same programs to control hardware modules.
 
 # Skills
 
